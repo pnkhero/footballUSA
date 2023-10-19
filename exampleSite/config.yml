@@ -80,13 +80,13 @@ params:
     heroCTAPrimaryUrl: "/product/"
     heroCTASecondaryText: Contact Me
     heroCTASecondaryUrl: "/contact/"
-    heroBackgroundImage: "/uploads/chaussure.webp"
+    heroBackgroundImage: "/uploads/logoo.webp"
     # About Section    
     disableAboutSection: false
     aboutTitle: About
-    aboutDescription: Just something about me
-    aboutImgUrl: "/uploads/self.webp"
-    aboutContent: Hi guys. This is where you put something about yourself.
+    aboutDescription: About QualityFootballUSA
+    aboutImgUrl: "/uploads/logoo.webp"
+    aboutContent: At QualityFootballUSA, our passion for American football is at the heart of everything we do. We understand that choosing the right footwear is essential to maximising your performance on the field. That's why we're committed to providing athletes of all levels with the best American football shoes that combine style, comfort and unmatched performance with high-tech equipment.
     # Portfolio Section
     disablePortfolioSection: false
     portfolioTitle: Portfolio
