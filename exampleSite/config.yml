@@ -51,7 +51,7 @@ params:
     iconWIdth: "35"
   comments: true
   mainSections:
-  - blog
+  - product
   ShowShareButtons: true
   ShowCodeCopyButtons: true
   ShowRelated: true
