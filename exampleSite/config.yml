@@ -1,5 +1,5 @@
 ---
-baseURL: https://piko-heksagon.netlify.app/
+baseURL: https://QualityFootballUSA.netlify.app/
 languageCode: en-us
 title: Piko
 theme: piko
@@ -43,8 +43,8 @@ params:
   images:
   - "/uploads/og.webp"
   label:
-    title: _Piko Title_
-    text: Welcome to Piko
+    title: _QualityFootballUSA_
+    text: Welcome to QualityFootball USA
     lightNavIcon: /uploads/sun.svg
     darkNavIcon: /uploads/zap.svg
     iconHeight: "35"
@@ -74,18 +74,13 @@ params:
     # Hero Section
     disableHeroSection: false
     heroUpperTitle: 
-    heroTitle: Piko
-    heroDescription: Lightweight theme for your every need
-    heroCTAPrimaryText: Blog
-    heroCTAPrimaryUrl: "/blog/"
+    heroTitle: QualityFootball USA
+    heroDescription: This is our online shop for American football boots. We sell quality custom-made boots with studs. With a wide range produced adapted to women.
+    heroCTAPrimaryText: Product
+    heroCTAPrimaryUrl: "/product/"
     heroCTASecondaryText: Contact Me
     heroCTASecondaryUrl: "/contact/"
-    heroBackgroundImage: "/uploads/portfolio-1.webp"
-    # Blog Section
-    disableBlogSection: false
-    blogTitle: Latest Posts
-    blogDescription: This is my latest blog posts
-    seeMoreText: More Posts
+    heroBackgroundImage: "/uploads/chaussure.webp"
     # About Section    
     disableAboutSection: false
     aboutTitle: About
